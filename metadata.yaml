@@ -1,4 +1,8 @@
 _repo: Blesky-nad-Beskydami_47754
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Omelka, František
@@ -11,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31795
     wikipedia: http://eo.wikipedia.org/wiki/Franti%C5%A1ek_Omelka
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47754#Blesky-nad-Beskydami
 gutenberg_issued: '2014-12-23'
 gutenberg_type: Text
 identifiers:
